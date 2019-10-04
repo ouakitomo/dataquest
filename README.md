@@ -7,3 +7,5 @@ Data Analyst in Python
 - Guided Project: Exploring Hacker News Posts
 - Guided Project: Exploring Ebay Car Sales Data
 - Guided Project: Visualizing Earnings Based On College Majors
+- Guided Project: Visualizing The Gender Gap In College Degrees
+- Guided Project: Clean And Analyze Employee Exit Surveys
