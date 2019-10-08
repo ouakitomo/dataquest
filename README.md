@@ -9,3 +9,5 @@ Data Analyst in Python
 - Guided Project: Visualizing Earnings Based On College Majors
 - Guided Project: Visualizing The Gender Gap In College Degrees
 - Guided Project: Clean And Analyze Employee Exit Surveys
+- Guided Project: Analyzing NYC High School Data
+
