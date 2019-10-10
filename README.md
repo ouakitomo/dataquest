@@ -10,4 +10,6 @@ Data Analyst in Python
 - Guided Project: Visualizing The Gender Gap In College Degrees
 - Guided Project: Clean And Analyze Employee Exit Surveys
 - Guided Project: Analyzing NYC High School Data
+- Guided Project: Star Wars Survey
+
 
