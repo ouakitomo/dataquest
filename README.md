@@ -11,5 +11,4 @@ Data Analyst in Python
 - Guided Project: Clean And Analyze Employee Exit Surveys
 - Guided Project: Analyzing NYC High School Data
 - Guided Project: Star Wars Survey
-
-
+- Guided Project: Analyzing CIA Factbook Data Using SQLite and Python
