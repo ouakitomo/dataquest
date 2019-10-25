@@ -14,3 +14,5 @@ Data Analyst in Python
 - Guided Project: Analyzing CIA Factbook Data Using SQLite and Python
 - Guided Project: Answering Business Questions using SQL
 - Guided Project: Designing and Creating a Database
+- Guided Project: Investigating Fandango Movie Ratings
+
