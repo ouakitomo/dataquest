@@ -15,4 +15,6 @@ Data Analyst in Python
 - Guided Project: Answering Business Questions using SQL
 - Guided Project: Designing and Creating a Database
 - Guided Project: Investigating Fandango Movie Ratings
+- Guided Project: ~~Finding the Best Markets to Advertise In~~
+- Guided Project: Mobile App for Lottery Addiction
 
