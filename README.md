@@ -17,4 +17,4 @@ Data Analyst in Python
 - Guided Project: Investigating Fandango Movie Ratings
 - Guided Project: ~~Finding the Best Markets to Advertise In~~
 - Guided Project: Mobile App for Lottery Addiction
-
+- Guided Project: Building a Spam Filter with Naive Bayes
