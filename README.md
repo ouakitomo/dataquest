@@ -18,3 +18,5 @@ Data Analyst in Python
 - Guided Project: ~~Finding the Best Markets to Advertise In~~
 - Guided Project: Mobile App for Lottery Addiction
 - Guided Project: Building a Spam Filter with Naive Bayes
+- Guided Project: ~~Winning Jeopardy~~
+- Guided Project: Predicting Car Prices
