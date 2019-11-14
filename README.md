@@ -20,3 +20,4 @@ Data Analyst in Python
 - Guided Project: Building a Spam Filter with Naive Bayes
 - Guided Project: ~~Winning Jeopardy~~
 - Guided Project: Predicting Car Prices
+- Guided Project: Predicting House Sale Prices
