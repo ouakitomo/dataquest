@@ -21,3 +21,4 @@ Data Analyst in Python
 - Guided Project: ~~Winning Jeopardy~~
 - Guided Project: Predicting Car Prices
 - Guided Project: Predicting House Sale Prices
+- Guided Project: Predicting Bike Rentals
