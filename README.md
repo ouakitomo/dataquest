@@ -22,3 +22,5 @@ Data Analyst in Python
 - Guided Project: Predicting Car Prices
 - Guided Project: Predicting House Sale Prices
 - Guided Project: Predicting Bike Rentals
+- Guided Project: Building A Handwritten Digits Classifier
+- Guided Project: Creating a Kaggle Workflow
